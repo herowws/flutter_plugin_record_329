@@ -3,7 +3,7 @@ description: "The flutter voice recording plug-in,provides the recording animati
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.5.4
 
 
 dependencies:
